@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CApuntes.iml" filepath="$PROJECT_DIR$/.idea/CApuntes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase10A/Clase10A.iml" filepath="$PROJECT_DIR$/Clase10A/Clase10A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase10S/Clase10S.iml" filepath="$PROJECT_DIR$/Clase10S/Clase10S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase13S/Clase13S.iml" filepath="$PROJECT_DIR$/Clase13S/Clase13S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase14s/Clase14s.iml" filepath="$PROJECT_DIR$/Clase14s/Clase14s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase7Sincro/Clase7Sincro.iml" filepath="$PROJECT_DIR$/Clase7Sincro/Clase7Sincro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasesApuntes/ClasesApuntes.iml" filepath="$PROJECT_DIR$/ClasesApuntes/ClasesApuntes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-Herencia/DH-Herencia.iml" filepath="$PROJECT_DIR$/DH-Herencia/DH-Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploDeExamen/EjemploDeExamen.iml" filepath="$PROJECT_DIR$/EjemploDeExamen/EjemploDeExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioConAlex/EjercicioConAlex.iml" filepath="$PROJECT_DIR$/EjercicioConAlex/EjercicioConAlex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreExamen/PreExamen.iml" filepath="$PROJECT_DIR$/PreExamen/PreExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepasoTrini/RepasoTrini.iml" filepath="$PROJECT_DIR$/RepasoTrini/RepasoTrini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase7A/clase7A.iml" filepath="$PROJECT_DIR$/clase7A/clase7A.iml" />
+    </modules>
+  </component>
+</project>
